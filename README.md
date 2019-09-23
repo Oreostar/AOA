@@ -13,5 +13,7 @@
 
 6)При обєднанні гілок відбувся конфлікт у файлі README.md, був вирішений вручну
 
+7)Конфлікт був вирішений вручну таким способом: `Auto-mergin README.md CONFLICT (content): Merge conflict in README.md Automatic merge failed; fix conflicts and then commit the result (потім був відрегований)`
+
 
 
