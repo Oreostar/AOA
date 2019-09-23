@@ -16,5 +16,6 @@
 7)Конфлікт був вирішений вручну таким способом: `Auto-mergin README.md CONFLICT (content): Merge conflict in README.md Automatic merge failed; fix conflicts and then commit the result (потім був відрегований)`
 
 8) Done
+9) Done
 
 
