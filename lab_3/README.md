@@ -6,3 +6,4 @@
 ##### 6. Відредагував файли my_site/settings.py my_site/url.py
 ##### 7. Відредагував main/views.py
 ##### 8. Відредагував main/urls.py
+![Screenshot](./screenshots/screenshot4.png)![Screenshot](./screenshots/screenshot5.png)
