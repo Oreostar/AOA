@@ -7,3 +7,4 @@
 ##### 7. Відредагував main/views.py
 ##### 8. Відредагував main/urls.py
 ![Screenshot](./screenshots/screenshot4.png)![Screenshot](./screenshots/screenshot5.png)
+##### 9. Модифікував функції відповідно до вимог, дописав функціонал моніторингу, зробив аліас.
