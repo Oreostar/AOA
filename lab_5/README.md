@@ -8,3 +8,10 @@
 ##### - .PHONY: $(STATES) створює несправжні цілі
 ##### - run виконує команди
 ##### - docker-prune очищення ресурсів
+##### 5. Виконуємо білд імеджів make app, make tests Запускаємо їх. Тести пройшли успішно
+![Screenshot](screenshots/screen1.png)
+![Screenshot](screenshots/screen2.png)
+![Screenshot](screenshots/screen3.png)
+![Screenshot](screenshots/screen4.png)
+##### 6. Чистимо ресурси Docker make docker-prune
+##### 7. Додаємо дериктиву push і команди. Виконуємо
